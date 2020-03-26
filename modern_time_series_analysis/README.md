@@ -1,4 +1,5 @@
 # Modern Time Series Analysis
+[Aileen Nielsen Video](https://www.youtube.com/watch?v=v5ijNXvlC5A)
 
 ## Install and Setup
 
